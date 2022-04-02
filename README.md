@@ -32,6 +32,10 @@ matplotlib
 
 Random seed `100` is used throughout this work.
 
-#### [Cost function assessment of swiss roll data projections](code/)
+#### [Cost function assessment of swiss roll data projections](code/paper-Supplement-swiss-roll-data.ipynb)
+
+This notebook can be used to reproduce the figure:
+
+![Screenshot](figures/paper-Supplement-swiss-roll-data.png)
 
 #### [Cost function application to categorical data](code/)
