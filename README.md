@@ -40,16 +40,11 @@ This notebook can be used to reproduce the figure:
 
 ![Screenshot](figures/paper-Figure-1-cost-function-demonstration.png)
 
-#### [▶︎ Cost function behavior on toy functions](code/)
+#### [▶︎ Cost function behavior on toy functions](code/paper-Figure-2-cost-function-behavior-on-toy-functions.ipynb)
 
 This notebook can be used to reproduce the figure:
 
-![Screenshot](figures/)
-
-
-
-
-
+![Screenshot](figures/paper-Figure-2-cost-function-behavior-on-toy-functions.png)
 
 #### [▶︎ Cost function application to categorical data](code/)
 
