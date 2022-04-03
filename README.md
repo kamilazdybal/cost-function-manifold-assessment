@@ -2,7 +2,9 @@
 
 This repository contains Jupyter notebooks and materials associated with the publication:
 
-> K. Zdybał, E. Armstrong, J.C. Sutherland, A. Parente - Cost function for low-dimensional manifold topology assessment.
+> K. Zdybał, E. Armstrong, J.C. Sutherland, A. Parente - *Cost function for low-dimensional manifold topology assessment*.
+
+----
 
 ## Reproducing paper results
 
@@ -46,11 +48,11 @@ This notebook can be used to reproduce the figure:
 
 ![Screenshot](figures/paper-Figure-2-cost-function-behavior-on-toy-functions.png)
 
-#### [▶︎ Cost function application to categorical data](code/)
+#### [▶︎ Cost function application to categorical data](code/paper-Figure-7-cost-function-application-to-categorical-data.ipynb)
 
 This notebook can be used to reproduce the figure:
 
-![Screenshot](figures/)
+![Screenshot](figures/paper-Figure-7-cost-function-application-to-categorical-data.png)
 
 #### [▶︎ Cost function assessment of swiss roll data projections](code/paper-Supplement-swiss-roll-data.ipynb)
 
