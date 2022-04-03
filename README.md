@@ -48,6 +48,12 @@ This notebook can be used to reproduce the figure:
 
 ![Screenshot](figures/paper-Figure-2-cost-function-behavior-on-toy-functions.png)
 
+#### [▶︎ Cost function application to detecting large gradients](code/paper-Figure-4-cost-function-application-to-detecting-large-gradients.ipynb)
+
+This notebook can be used to reproduce the figure:
+
+![Screenshot](figures/paper-Figure-4-cost-function-application-to-detecting-large-gradients.png)
+
 #### [▶︎ Cost function application to categorical data](code/paper-Figure-7-cost-function-application-to-categorical-data.ipynb)
 
 This notebook can be used to reproduce the figure:
