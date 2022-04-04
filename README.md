@@ -66,8 +66,10 @@ This notebook can be used to reproduce the figure:
 
 ![Screenshot](figures/paper-Supplement-swiss-roll-data.png)
 
-#### [▶︎ Cost function application to hyper-parameter tuning in t-SNE](code/)
+#### [▶︎ Cost function application to hyper-parameter tuning in t-SNE](code/paper-Supplement-cost-function-application-to-hyper-parameter-tuning.ipynb)
 
-This notebook can be used to reproduce the figure:
+This notebook can be used to reproduce the figures:
 
-![Screenshot](figures/)
+![Screenshot](figures/paper-Supplement-cost-function-application-to-hyper-parameter-tuning-3D.png)
+
+![Screenshot](figures/paper-Supplement-cost-function-application-to-hyper-parameter-tuning-2D.png)
