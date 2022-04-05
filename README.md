@@ -60,6 +60,12 @@ This notebook can be used to reproduce the figure:
 
 ![Screenshot](figures/paper-Figure-4-cost-function-application-to-detecting-large-gradients.png)
 
+#### [▶︎ Cost function analysis of the atmospheric physics dataset](code/paper-Figure-6-atmospheric-physics.ipynb)
+
+This notebook can be used to reproduce the figure:
+
+![Screenshot](figures/paper-Figure-6-atmospheric-physics.png)
+
 #### [▶︎ Cost function application to categorical data](code/paper-Figure-7-cost-function-application-to-categorical-data.ipynb)
 
 This notebook can be used to reproduce the figure:
