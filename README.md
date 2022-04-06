@@ -14,7 +14,7 @@ The seminar talk associated with this publication can be found [here](https://ww
 
 ## Reproducing paper results
 
-To reproduce the results included in the original publication (and in the supplementary material), several Python libraries are required. Mainly, the [PCAfold](https://pcafold.readthedocs.io/en/latest/index.html) library developed by the authors contains the implementation of the cost function; it also introduces several functions and algorithms used throughout the work. The installation instructions can be found in the linked documentation page.
+To reproduce the results included in the original publication (and in the supplementary material), several Python libraries are required. Mainly, the [PCAfold](https://pcafold.readthedocs.io/en/latest/index.html) library developed by the authors contains the implementation of the cost function; it also introduces several functions and algorithms used throughout the work. The installation instructions can be found in the linked documentation page. [umap-learn](https://umap-learn.readthedocs.io/en/latest/index.html) package can be installed through `pip install umap-learn`. [pyDML](https://pydml.readthedocs.io/en/latest/index.html) package can be installed through `pip install pydml`.
 
 Below is a complete list of required libraries:
 
