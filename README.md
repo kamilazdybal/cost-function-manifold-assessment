@@ -85,3 +85,9 @@ This notebook can be used to reproduce the figures:
 ![Screenshot](figures/paper-Supplement-cost-function-application-to-hyper-parameter-tuning-3D.png)
 
 ![Screenshot](figures/paper-Supplement-cost-function-application-to-hyper-parameter-tuning-2D.png)
+
+#### [▶︎ Cost function sensitivity to data sampling](code/paper-Supplement-sensitivity-to-data-sampling.ipynb)
+
+This notebook can be used to reproduce the figure:
+
+![Screenshot](figures/paper-Supplement-sensitivity-to-data-sampling.png)
