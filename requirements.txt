@@ -1,0 +1,17 @@
+numpy
+pandas
+copy
+time
+random
+pickle
+csv
+ast
+PCAfold
+tensorflow
+keras
+sklearn
+dml
+umap
+scipy
+plotly
+matplotlib
