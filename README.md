@@ -32,11 +32,23 @@ This notebook can be used to reproduce the figure:
 
 ![Screenshot](figures/paper-Figure-2-cost-function-behavior-on-toy-functions.png)
 
+#### [▶︎ Cost function analysis of the plasma physics and reacting flow datasets](code/)
+
+This notebook can be used to reproduce the figure:
+
+![Screenshot](figures/paper-Figure-3-plasma-physics-and-reacting-flows.png)
+
 #### [▶︎ Cost function application to detecting large gradients](code/paper-Figure-4-cost-function-application-to-detecting-large-gradients.ipynb)
 
 This notebook can be used to reproduce the figure:
 
 ![Screenshot](figures/paper-Figure-4-cost-function-application-to-detecting-large-gradients.png)
+
+#### [▶︎ Cost function behavior with increasing manifold dimensionality](code/)
+
+This notebook can be used to reproduce the figure:
+
+![Screenshot](figures/paper-Figure-5-cost-dimensionality-Sandia-flame.png)
 
 #### [▶︎ Cost function analysis of the atmospheric physics dataset](code/paper-Figure-6-atmospheric-physics.ipynb)
 
