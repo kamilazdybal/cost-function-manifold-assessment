@@ -44,7 +44,7 @@ This notebook can be used to reproduce the figure:
 
 ![Screenshot](figures/paper-Figure-4-cost-function-application-to-detecting-large-gradients.png)
 
-#### [▶︎ Cost function behavior with increasing manifold dimensionality](code/)
+#### [▶︎ Cost function behavior with increasing manifold dimensionality](code/paper-Figure-5-cost-dimensionality-Sandia-flame.ipynb)
 
 This notebook can be used to reproduce the figure:
 
