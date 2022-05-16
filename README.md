@@ -4,13 +4,9 @@ This repository contains Jupyter notebooks and materials associated with the pub
 
 > K. Zdybał, E. Armstrong, J.C. Sutherland, A. Parente - *Cost function for low-dimensional manifold topology assessment*.
 
-----
-
 ## Seminar talk
 
 The seminar talk associated with this publication can be found [here](https://www.vki.ac.be/index.php/vki-seminars).
-
-----
 
 ## Reproducing paper results
 
