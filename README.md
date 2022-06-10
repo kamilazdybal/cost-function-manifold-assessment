@@ -36,7 +36,7 @@ This notebook can be used to reproduce the figure:
 
 ![Screenshot](figures/paper-Figure-2-cost-function-behavior-on-toy-functions.png)
 
-#### [▶︎ Cost function analysis of the plasma physics and reacting flow datasets](code/)
+#### [▶︎ Cost function analysis of the plasma physics and reacting flow datasets](code/paper-Figure-3-plasma-physics-and-reacting-flows.ipynb)
 
 This notebook can be used to reproduce the figure:
 
