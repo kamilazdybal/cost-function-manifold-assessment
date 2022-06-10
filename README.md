@@ -8,9 +8,17 @@ This repository contains Jupyter notebooks and materials associated with the pub
 
 The seminar talk associated with this publication can be found [here](https://www.vki.ac.be/index.php/vki-seminars).
 
+## Data availability
+
+The datasets generated during or analyzed during the current study are available in the [``data``](data/) directory. The atmospheric physics dataset and the plasma physics dataset are property of Université libre de Bruxelles. 
+
+The Sandia flames data can be accessed at: [tnfworkshop.org/data-archives/pilotedjet/ch4-air](https://tnfworkshop.org/data-archives/pilotedjet/ch4-air).
+
 ## Reproducing paper results
 
-To reproduce the results included in the original publication (and in the supplementary material), several Python libraries are required (see [`requirements.txt`](requirements.txt)). Mainly, the [PCAfold](https://pcafold.readthedocs.io/en/latest/index.html) library developed by the authors contains the implementation of the cost function; it also introduces several functions and algorithms used throughout the work. The installation instructions can be found in the linked documentation page. [umap-learn](https://umap-learn.readthedocs.io/en/latest/index.html) package can be installed through `pip install umap-learn`. [pyDML](https://pydml.readthedocs.io/en/latest/index.html) package can be installed through `pip install pydml`.
+All code needed to reproduce results included in the original publication (and in the supplementary material) is stored in the [``code``](code/) directory.
+
+Several Python libraries are required (see [`requirements.txt`](requirements.txt)). Mainly, the [PCAfold](https://pcafold.readthedocs.io/en/latest/index.html) library developed by the authors contains the implementation of the cost function; it also introduces several functions and algorithms used throughout the work. The installation instructions can be found in the linked documentation page. [umap-learn](https://umap-learn.readthedocs.io/en/latest/index.html) package can be installed through `pip install umap-learn`. [pyDML](https://pydml.readthedocs.io/en/latest/index.html) package can be installed through `pip install pydml`.
 
 Random seed `100` is used throughout this work.
 
