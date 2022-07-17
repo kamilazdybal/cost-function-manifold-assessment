@@ -24,47 +24,48 @@ Random seed `100` is used throughout this work.
 
 ### Jupyter notebooks
 
-#### [▶︎ Cost function demonstration](code/paper-Figure-1-cost-function-demonstration.ipynb)
+#### [▶︎ Cost function demonstration](code/paper-Figure-2-cost-function-demonstration.ipynb)
 
 This notebook can be used to reproduce the figure:
 
-![Screenshot](figures/paper-Figure-1-cost-function-demonstration.png)
+![Screenshot](figures/paper-Figure-2-cost-function-demonstration.png)
 
-#### [▶︎ Cost function behavior on toy functions](code/paper-Figure-2-cost-function-behavior-on-toy-functions.ipynb)
-
-This notebook can be used to reproduce the figure:
-
-![Screenshot](figures/paper-Figure-2-cost-function-behavior-on-toy-functions.png)
-
-#### [▶︎ Cost function analysis of the plasma physics and reacting flow datasets](code/paper-Figure-3-plasma-physics-and-reacting-flows.ipynb)
+#### [▶︎ Cost function behavior on toy functions](code/paper-Figure-3-cost-function-behavior-on-toy-functions.ipynb)
 
 This notebook can be used to reproduce the figure:
 
-![Screenshot](figures/paper-Figure-3-plasma-physics-and-reacting-flows.png)
+![Screenshot](figures/paper-Figure-3-cost-function-behavior-on-toy-functions.png)
 
-#### [▶︎ Cost function application to detecting large gradients](code/paper-Figure-4-cost-function-application-to-detecting-large-gradients.ipynb)
-
-This notebook can be used to reproduce the figure:
-
-![Screenshot](figures/paper-Figure-4-cost-function-application-to-detecting-large-gradients.png)
-
-#### [▶︎ Cost function behavior with increasing manifold dimensionality](code/paper-Figure-5-cost-dimensionality-Sandia-flame.ipynb)
+#### [▶︎ Cost function analysis of the plasma physics and reacting flow datasets](code/paper-Figure-4-plasma-physics-and-reacting-flows.ipynb)
 
 This notebook can be used to reproduce the figure:
 
-![Screenshot](figures/paper-Figure-5-cost-dimensionality-Sandia-flame.png)
+![Screenshot](figures/paper-Figure-4-plasma-physics-and-reacting-flows.png)
 
-#### [▶︎ Cost function analysis of the atmospheric physics dataset](code/paper-Figure-6-atmospheric-physics.ipynb)
-
-This notebook can be used to reproduce the figure:
-
-![Screenshot](figures/paper-Figure-6-atmospheric-physics.png)
-
-#### [▶︎ Cost function application to categorical data](code/paper-Figure-7-cost-function-application-to-categorical-data.ipynb)
+#### [▶︎ Cost function application to detecting large gradients](code/paper-Figure-5-cost-function-application-to-detecting-large-gradients.ipynb)
 
 This notebook can be used to reproduce the figure:
 
-![Screenshot](figures/paper-Figure-7-cost-function-application-to-categorical-data.png)
+![Screenshot](figures/paper-Figure-5-cost-function-application-to-detecting-large-gradients.png)
+
+#### [▶︎ Cost function behavior with increasing manifold dimensionality](code/paper-Figure-6-cost-dimensionality-Sandia-flame.ipynb)
+
+This notebook can be used to reproduce the figure:
+
+![Screenshot](figures/paper-Figure-6-cost-dimensionality-Sandia-flame.png)
+
+#### [▶︎ Cost function analysis of the atmospheric physics dataset](code/paper-Figure-7-atmospheric-physics.ipynb)
+#### [▶︎ Relating the cost function and nonlinear regression predictions](code/paper-Figure-7-atmospheric-physics-regression-correlation.ipynb)
+
+These two notebooks can be used to reproduce the figure:
+
+![Screenshot](figures/paper-Figure-7-atmospheric-physics.png)
+
+#### [▶︎ Cost function application to categorical data](code/paper-Figure-8-cost-function-application-to-categorical-data.ipynb)
+
+This notebook can be used to reproduce the figure:
+
+![Screenshot](figures/paper-Figure-8-cost-function-application-to-categorical-data.png)
 
 #### [▶︎ Cost function assessment of swiss roll data projections](code/paper-Supplement-swiss-roll-data.ipynb)
 
