@@ -26,6 +26,7 @@ from sklearn import datasets
 from sklearn.datasets import fetch_openml
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 
+from scipy.stats import spearmanr
 from scipy.signal import find_peaks
 
 from keras import backend as K
