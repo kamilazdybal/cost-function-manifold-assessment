@@ -67,11 +67,15 @@ This notebook can be used to reproduce the figure:
 
 ![Screenshot](figures/paper-Figure-8-cost-function-application-to-categorical-data.png)
 
-#### [▶︎ Cost function assessment of swiss roll data projections](code/paper-Supplement-swiss-roll-data.ipynb)
+#### [▶︎ Cost function's hyper-parameters on toy functions](code/paper-Figure-9-effect-of-hyper-parameters.ipynb)
+#### [▶︎ Cost function's assessment of swiss roll data projections](code/paper-Figure-9-swiss-roll-data.ipynb)
+#### [▶︎ Cost function's hyper-parameters on swiss roll data projections](code/paper-Figure-9-swiss-roll-data-effect-of-hyper-parameters.ipynb)
 
-This notebook can be used to reproduce the figure:
+These notebooks can be used to reproduce the figure:
 
-![Screenshot](figures/paper-Supplement-swiss-roll-data.png)
+![Screenshot](figures/paper-Figure-9-cost-function-hyper-parameters.png)
+
+-------
 
 #### [▶︎ Cost function application to hyper-parameter tuning in t-SNE](code/paper-Supplement-cost-function-application-to-hyper-parameter-tuning.ipynb)
 
