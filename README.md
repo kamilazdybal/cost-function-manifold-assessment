@@ -77,14 +77,16 @@ These notebooks can be used to reproduce the figure:
 
 -------
 
-#### [▶︎ Cost function application to perplexity generalization in t-SNE](code/paper-Supplement-t-SNE-perplexity-generalization.ipynb)
 #### [▶︎ Cost function application to hyper-parameter tuning in t-SNE](code/paper-Supplement-t-SNE-perplexity-tuning.ipynb)
+#### [▶︎ Cost function application to perplexity generalization in t-SNE](code/paper-Supplement-t-SNE-perplexity-generalization.ipynb)
 
 These notebook can be used to reproduce the figures:
 
 ![Screenshot](figures/paper-Supplement-cost-function-application-to-hyper-parameter-tuning-3D.png)
 
 ![Screenshot](figures/paper-Supplement-cost-function-application-to-hyper-parameter-tuning-2D.png)
+
+![Screenshot](figures/paper-Supplement-t-SNE-n-dependent-perplexity.png)
 
 #### [▶︎ Cost function sensitivity to data sampling](code/paper-Supplement-sensitivity-to-data-sampling.ipynb)
 
