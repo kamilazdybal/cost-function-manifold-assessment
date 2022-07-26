@@ -24,6 +24,13 @@ Random seed `100` is used throughout this work.
 
 ### Jupyter notebooks
 
+
+#### [▶︎ Non-uniqueness illustrative demonstration](code/paper-Figure-1-non-uniqueness-demo.ipynb)
+
+This notebook can be used to reproduce the figure:
+
+![Screenshot](figures/paper-Figure-1-non-uniqueness-demo.png)
+
 #### [▶︎ Cost function demonstration](code/paper-Figure-2-cost-function-demonstration.ipynb)
 
 This notebook can be used to reproduce the figure:
