@@ -2,7 +2,24 @@
 
 This repository contains Jupyter notebooks and materials associated with the publication:
 
-> K. Zdybał, E. Armstrong, J.C. Sutherland, A. Parente - *Cost function for low-dimensional manifold topology assessment*.
+> Zdybał, K., Armstrong, E., Sutherland, J.C. and Parente, A., 2022. Cost function for low-dimensional manifold topology assessment. *Scientific Reports*, 12(1), pp.1-19.
+
+You can find the open-source article here: https://www.nature.com/articles/s41598-022-18655-1.
+
+BibTeX citation:
+
+```
+@article{zdybal2022cost,
+  title={Cost function for low-dimensional manifold topology assessment},
+  author={Zdyba{\l}, Kamila and Armstrong, Elizabeth and Sutherland, James C and Parente, Alessandro},
+  journal={Scientific Reports},
+  volume={12},
+  number={1},
+  pages={1--19},
+  year={2022},
+  publisher={Nature Publishing Group}
+}
+```
 
 ## Seminar talk
 
@@ -10,7 +27,7 @@ The seminar talk associated with this publication can be found [here](https://ww
 
 ## Data availability
 
-The datasets generated during or analyzed during the current study are available in the [``data``](data/) directory. The atmospheric physics dataset and the plasma physics dataset are property of Université libre de Bruxelles. 
+The datasets generated during or analyzed during the current study are available in the [``data``](data/) directory. The atmospheric physics dataset and the plasma physics dataset are property of Université libre de Bruxelles.
 
 The Sandia flames data can be accessed at: [tnfworkshop.org/data-archives/pilotedjet/ch4-air](https://tnfworkshop.org/data-archives/pilotedjet/ch4-air).
 
